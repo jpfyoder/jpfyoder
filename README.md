@@ -2,12 +2,12 @@
 
 I'm Josh, a software and finance guy. Been programming for a long time.
 
-- 🔭 I’m currently working on algorithmic trading software and data analytics systems
-- 🌱 I’m currently learning more about big data and frontend development
-- 💬 Ask me about: anything interesting!
-- 📫 How to reach me: see my profile to the left!
-- 😄 Pronouns: He / Him
+- 💼 I'm a serial entrepeneur and software contractor currently working on projects in finance, blockchain, real estate, and big data
+- 📚 I'm (Almost) a Full Stack Developer
+- 🌱 I’m currently learning more about ML, frontend development, DevOps, and UI design
 - 🎓 Rochester Institutie of Technology Class of 2023 (CS BS / Finance Minor)
+- 💬 Ask me about: anything interesting!
+- 😄 Pronouns: He / Him
 
 ### Technologies
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logoColor=white&style=flat-square&logo=Go)
