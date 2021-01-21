@@ -1,4 +1,4 @@
-### Hi there 👈😉👈
+### Hi there 👈😎👈
 
 I'm Josh, a software and finance guy. Been programming for a long time.
 
@@ -26,9 +26,9 @@ I'm Josh, a software and finance guy. Been programming for a long time.
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=flat-square&logoColor=white&logo=vagrant)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logoColor=white&style=flat-square&logo=VirtualBox)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Material Design](https://img.shields.io/badge/-Material%20Design-757575?logoColor=white&style=flat-square&logo=material-design)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui)
 ![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?logoColor=white&style=flat-square&logo=Font-Awesome)
-![Material Design](https://img.shields.io/badge/-Material%20Design-757575?logoColor=white&style=flat-square&logo=material-design)
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?logoColor=white&style=flat-square&logo=apple)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logoColor=white&style=flat-square&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logoColor=white&style=flat-square&logo=ubuntu)
