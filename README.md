@@ -12,7 +12,8 @@ I'm Josh, a software and finance guy. Been programming for a long time.
 ### Technologies
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logoColor=white&style=flat-square&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logoColor=white&style=flat-square&logo=Python)
-![C Language](https://img.shields.io/badge/-C%20Language-A8B9CC?logoColor=white&style=flat-square&logo=C)
+![C](https://img.shields.io/badge/-C-A8B9CC?logoColor=white&style=flat-square&logo=C)
+![C++](https://img.shields.io/badge/-C++-00599C?logoColor=white&style=flat-square&logo=C%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logoColor=maroon&logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logoColor=white&logo=php)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logoColor=white&style=flat-square&logo=MongoDB)
