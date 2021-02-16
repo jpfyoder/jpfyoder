@@ -3,7 +3,6 @@
 I'm Josh, a software and finance guy. Been programming for a long time.
 
 - 💼 I'm a serial entrepeneur and software contractor currently working on projects in finance, blockchain, real estate, and big data
-- 📚 I'm (Almost) a Full Stack Developer
 - 🌱 I’m currently learning more about ML, frontend development, DevOps, and UI design
 - 🎓 Rochester Institutie of Technology Class of 2023 (CS BS / Finance Minor)
 - 💬 Ask me about: anything interesting!
