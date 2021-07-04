@@ -1,10 +1,10 @@
-### Hi there! 👈👈
+### Hi there! 😉
 
-I'm Josh, a software and finance guy. Been programming for a long time.
+I'm Josh, a software and finance guy. I build apps.
 
-- 💼 I'm a student and enterprise sofrware engineer currently working on projects in finance, data management, and data analytics.
+- 💼 I'm a student and enterprise sofrware dev currently working on projects in finance, data management, and data analytics.
 - 🎓 Rochester Institutie of Technology Class of 2023 (CS BS / Finance Minor)
-- 🎚️ I am a DJ and have a large collection of classic house, disco, and techno music.
+- 🎚️ I am a DJ who specializes in classic house, disco, and techno music.
 - 💬 Ask me about: anything interesting!
 - 😄 Pronouns: He / Him
 
