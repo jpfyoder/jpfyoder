@@ -1,8 +1,6 @@
-### Hi there! 😉
+### A Brief Summary
 
-I'm Josh, a software and finance guy. I build software.
-
-- 💼 I'm an enterprise software developer currently working on projects in finance, data management, and data analytics.
+- 💼 I'm a freelance enterprise software developer currently working on projects in finance, data management, and data analytics.
 - 🎓 Rochester Institutie of Technology Class of 2023 (CS BS / Finance Minor)
 - 🎚️ I am a DJ who specializes in classic house, disco, and techno music.
 - 💬 Ask me about: anything interesting!
