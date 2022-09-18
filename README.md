@@ -31,6 +31,7 @@ In no particular order...
 ![C](https://img.shields.io/badge/-C-A8B9CC?logoColor=white&style=flat-square&logo=C)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logoColor=white&logo=php)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logoColor=white&style=flat-square&logo=Go)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logoColor=maroon&logo=Java)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logoColor=white&style=flat-square&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?logoColor=white&style=flat-square&logo=MySQL)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-c1755a?logoColor=white&style=flat-square&logo=MariaDB)
@@ -64,6 +65,5 @@ In no particular order...
 ![JSON](https://img.shields.io/badge/-JSON-000000?logoColor=white&style=flat-square&logo=JSON)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logoColor=white&style=flat-square&logo=Markdown)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logoColor=white&style=flat-square&logo=LaTeX)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logoColor=maroon&logo=Java)
 
 I know how to pick the right tools to get the job done quickly and correctly for every unique business and user scenario.
