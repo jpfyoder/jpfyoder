@@ -27,9 +27,10 @@ Amongst many other things!
 In no particular order...
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logoColor=white&style=flat-square&logo=Python)
+![Rust](https://img.shields.io/badge/-Rust-e23c26?logoColor=white&style=flat-square&logo=Rust)
+![C](https://img.shields.io/badge/-C-A8B9CC?logoColor=white&style=flat-square&logo=C)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logoColor=white&logo=php)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logoColor=white&style=flat-square&logo=Go)
-![C](https://img.shields.io/badge/-C-A8B9CC?logoColor=white&style=flat-square&logo=C)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logoColor=white&style=flat-square&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?logoColor=white&style=flat-square&logo=MySQL)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-c1755a?logoColor=white&style=flat-square&logo=MariaDB)
