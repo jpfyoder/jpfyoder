@@ -6,22 +6,6 @@
 - 💬 Ask me about: anything interesting!
 - 😄 Pronouns: He / Him
 
-### Areas I Am Interested In
-
-- 💽 Database Systems (SQL, NoSQL, distributed databases, caching, scaling, sharding)
-- 🕸️ Distributed Systems (Parallel Processing, Multi-Threaded Programming, MapReduce, Load Balancing, Workload Optimization)
-- 🔎 Information Retrieval (building and maintaining search engines, or anything with an inverted index)
-- 🖼️ Frontend Programming (UI/UX, Web Application Development)
-- 🔐 Security (Encryption, Authorization)
-- 📊 Data Mining (Data Science, Artificial Intelligence, Machine Learning, Ensemble Modeling, BIG Data)
-- 🚥 Internet of Things (IoT), Facilities Management Systems, Building Automation, Process Automation
-- 📈 Finance, Logistics (ERP), Supply Chains
-- ✨ DevOps (CI/CD), Infrastructure Deployment, Tech Stack design, Developer Process Management
-- 🌐 IT Operations, Routing and Switching, Network Topology Design
-
-
-Amongst many other things!
-
 ### Technologies I Use
 
 ![Rust](https://img.shields.io/badge/-Rust-e23c26?logoColor=white&style=flat-square&logo=Rust)
@@ -64,4 +48,19 @@ Amongst many other things!
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logoColor=white&style=flat-square&logo=Markdown)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logoColor=white&style=flat-square&logo=LaTeX)
 
-I know how to pick the right tools to get the job done quickly and correctly for every unique business and user scenario.
+I know how to pick the right tools to get the job done quickly and correctly for every unique business and user scenario. I am flexible, open-minded and can work with any language, tools, or framework necessary.
+
+### Areas I Am Interested In
+
+- 💽 Database Systems (SQL, NoSQL, distributed databases, caching, scaling, sharding)
+- 🕸️ Distributed Systems (Parallel Processing, Multi-Threaded Programming, MapReduce, Load Balancing, Workload Optimization)
+- 🔎 Information Retrieval (building and maintaining search engines, or anything with an inverted index)
+- 🖼️ Frontend Programming (UI/UX, Web Application Development)
+- 🔐 Security (Encryption, Authorization)
+- 📊 Data Mining (Data Science, Artificial Intelligence, Machine Learning, Ensemble Modeling, BIG Data)
+- 🚥 Internet of Things (IoT), Facilities Management Systems, Building Automation, Process Automation
+- 📈 Finance, Logistics (ERP), Supply Chains
+- ✨ DevOps (CI/CD), Infrastructure Deployment, Tech Stack design, Developer Process Management
+- 🌐 IT Operations, Routing and Switching, Network Topology Design
+
+Amongst many other things!
