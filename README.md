@@ -38,15 +38,15 @@ I know how to pick the right tools to get the job done quickly and correctly for
 
 ### Areas I Am Interested In
 
-- 💽 Database Systems (SQL, NoSQL, distributed databases, caching, scaling, sharding)
-- 🕸️ Distributed Systems (Parallel Processing, Multi-Threaded Programming, MapReduce, Load Balancing, Workload Optimization)
-- 🔎 Information Retrieval (building and maintaining search engines, or anything with an inverted index)
-- 🖼️ Frontend Programming (UI/UX, Web Application Development)
-- 🔐 Security (Encryption, Authorization)
-- 📊 Data Mining (Data Science, Artificial Intelligence, Machine Learning, Ensemble Modeling, BIG Data)
-- 🚥 Internet of Things (IoT), Facilities Management Systems, Building Automation, Process Automation
-- 📈 Finance, Logistics (ERP), Supply Chains
-- ✨ DevOps (CI/CD), Infrastructure Deployment, Tech Stack design, Developer Process Management
-- 🌐 IT Operations, Routing and Switching, Network Topology Design
+- 💽 Database Systems
+- 🕸️ Distributed Systems
+- 🔎 Information Retrieval
+- 🖼️ Frontend Programming
+- 🔐 Security
+- 📊 Data Mining
+- 🚥 Internet of Things (IoT)
+- 📈 Finance
+- ✨ DevOps (CI/CD)
+- 🌐 IT Operations & Network Design
 
 Amongst many other things!
