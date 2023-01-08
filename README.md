@@ -8,15 +8,10 @@
 
 ### Technologies I Use
 
-![Elixir](https://img.shields.io/badge/-Elixir-765b82?style=flat-square&logoColor=white&logo=elixir)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logoColor=white&style=flat-square&logo=C)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logoColor=white&style=flat-square&logo=Python)
-![Erlang/OTP](https://img.shields.io/badge/-Erlang/OTP-aa0432?style=flat-square&logoColor=white&logo=erlang)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logoColor=white&style=flat-square&logo=Go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logoColor=white&logo=typescript)
-![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logoColor=white&logo=deno)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logoColor=maroon&logo=Java)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logoColor=white&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logoColor=white&logo=HTML5)
 ![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logoColor=white&logo=svelte)
 ![Supabase](https://img.shields.io/badge/-Supabase-3fd08f?style=flat-square&logoColor=white&logo=supabase)
