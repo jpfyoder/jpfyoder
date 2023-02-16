@@ -1,10 +1,11 @@
 ### A Brief Summary
 
-- 💼 I'm a freelance enterprise software developer currently working on projects in finance, data management, and data analytics.
-- 🎓 Rochester Institutie of Technology Class of 2023 (CS BS / Finance Minor)
-- 🎚️ I am a DJ who specializes in classic house, disco, and techno music.
-- 💬 Ask me about: anything interesting!
-- 😄 Pronouns: He / Him
+[joshuayoder.com](https://joshuayoder.com/) is my website!
+
+- 💼 I'm a full stack freelance developer who specializes in databases and parallel & distributed systems.
+- 🎓 Rochester Institutie of Technology Class of 2023 (Computer Science BS / Finance Minor)
+- 💬 Ask me about: anything!
+- 😄 Pronouns: Any Pronouns
 
 ### Technologies I Use
 
@@ -13,7 +14,10 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logoColor=white&style=flat-square&logo=Go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logoColor=white&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logoColor=white&logo=HTML5)
+![HTMX](https://img.shields.io/badge/-HTMX-A8B9CC?style=flat-square)
 ![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logoColor=white&logo=svelte)
+![React](https://img.shields.io/badge/-React-62DAFC?style=flat-square&logoColor=white&logo=react)
+![GraphQL](https://img.shields.io/badge/-GraphQL-DE33A6?style=flat-square&logoColor=white&logo=graphql)
 ![Supabase](https://img.shields.io/badge/-Supabase-3fd08f?style=flat-square&logoColor=white&logo=supabase)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logoColor=white&style=flat-square&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?logoColor=white&style=flat-square&logo=MySQL)
