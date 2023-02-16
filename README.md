@@ -14,6 +14,7 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logoColor=white&style=flat-square&logo=Go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logoColor=white&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logoColor=white&logo=HTML5)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logoColor=white&logo=tailwindcss)
 ![HTMX](https://img.shields.io/badge/-HTMX-A8B9CC?style=flat-square)
 ![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logoColor=white&logo=svelte)
 ![React](https://img.shields.io/badge/-React-62DAFC?style=flat-square&logoColor=white&logo=react)
