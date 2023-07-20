@@ -4,7 +4,7 @@
 
 - 💼 I'm a full stack freelance software engineer and systems architect.
 - 🎓 Rochester Institute of Technology Class of 2023 (Computer Science BS + Finance Minor)
-- 🔧 I know how to pick the right tools for every unique set of requirements. I am flexible, open-minded and can work with any language, tools, or framework necessary to get the job done correctly.
+- 🔧 I know how to select the right tools for every unique set of requirements. I am flexible, open-minded, and can work with any language, tool, or framework necessary to correctly get the job done.
 
 ### Toolbelt
 
