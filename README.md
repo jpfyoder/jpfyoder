@@ -4,7 +4,7 @@
 
 - 💼 I'm a full stack freelance software engineer and systems architect.
 - 🎓 Rochester Institute of Technology Class of 2023 (Computer Science BS + Finance Minor)
-- 🔧 I know how to select the right tools for every unique set of requirements. I am flexible, open-minded, and can work with any language, tool, or framework necessary to correctly get the job done.
+- 🔧 I know how to select the right tools for every unique set of requirements. I am flexible, open-minded, and can work with any language or framework necessary to correctly get the job done.
 
 ### Toolbelt
 
@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logoColor=white&style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-Go-00ADD8?logoColor=white&style=flat-square&logo=go)
 ![](https://img.shields.io/badge/-C-A8B9CC?logoColor=white&style=flat-square&logo=C)
+![](https://img.shields.io/badge/-SQL-4169E1?logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-Haskell-5D4F85?logoColor=white&style=flat-square&logo=haskell)
 ![](https://img.shields.io/badge/-PHP-777BB4?logoColor=white&style=flat-square&logo=php)
 ![](https://img.shields.io/badge/-HTML5-E34F26?logoColor=white&style=flat-square&logo=html5)
