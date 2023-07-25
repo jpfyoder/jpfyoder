@@ -116,3 +116,5 @@
 ![](https://img.shields.io/badge/-Notion-000000?logoColor=white&style=flat-square&logo=notion)
 ![](https://img.shields.io/badge/-Diagrams.net-F08705?logoColor=white&style=flat-square&logo=diagramsdotnet)
 ![](https://img.shields.io/badge/-Wireshark-1679A7?logoColor=white&style=flat-square&logo=wireshark)
+
+> "When a task has just begun, never leave it till it's done. Be the labor great or small, do it well or not at all." - Quincy Jones Sr.
