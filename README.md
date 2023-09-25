@@ -11,17 +11,16 @@
 #### Languages
 
 ![](https://img.shields.io/badge/-Python-3776AB?logoColor=white&style=flat-square&logo=python)
-![](https://img.shields.io/badge/-TypeScript-3178C6?logoColor=white&style=flat-square&logo=typescript)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?logoColor=white&style=flat-square&logo=javascript)
-![](https://img.shields.io/badge/-Go-00ADD8?logoColor=white&style=flat-square&logo=go)
 ![](https://img.shields.io/badge/-C-A8B9CC?logoColor=white&style=flat-square&logo=C)
 ![](https://img.shields.io/badge/-SQL-4169E1?logoColor=white&style=flat-square)
-![](https://img.shields.io/badge/-Haskell-5D4F85?logoColor=white&style=flat-square&logo=haskell)
+![](https://img.shields.io/badge/-Go-00ADD8?logoColor=white&style=flat-square&logo=go)
+![](https://img.shields.io/badge/-TypeScript-3178C6?logoColor=white&style=flat-square&logo=typescript)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?logoColor=white&style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-PHP-777BB4?logoColor=white&style=flat-square&logo=php)
-![](https://img.shields.io/badge/-HTML5-E34F26?logoColor=white&style=flat-square&logo=html5)
-![](https://img.shields.io/badge/-CSS3-1572B6?logoColor=white&style=flat-square&logo=css3)
 
 #### Frontend
+![](https://img.shields.io/badge/-HTML5-E34F26?logoColor=white&style=flat-square&logo=html5)
+![](https://img.shields.io/badge/-CSS3-1572B6?logoColor=white&style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/-React-61DAFB?logoColor=white&style=flat-square&logo=react)
 ![](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logoColor=white&style=flat-square&logo=tailwindcss)
 ![](https://img.shields.io/badge/-Daisy%20UI-5A0EF8?logoColor=white&style=flat-square&logo=daisyui)
