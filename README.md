@@ -2,10 +2,9 @@
 
 You've found my GitHub! [joshuayoder.com](https://joshuayoder.com/) is my website!
 
-- 💼 I'm a full stack freelance software engineer and systems architect.
+- 💼 I'm a full stack software engineer, systems architect, and data scientist/engineer.
 - 🎓 Computer Science BS (+ Finance Minor) - **Rochester Institute of Technology, Class of 2024**
 - 🎓 Applied Statistics MS - **Rochester Institute of Technology, Current**
-- 🔧 I know how to select the right tools for every unique set of requirements. I am flexible, open-minded, and can work with any language or framework necessary to get the job done correctly.
 - 💡 I have a passion for programming, devops, data science, mathematics, and music.
 - 🚄 I like to travel when I'm able to!
 
