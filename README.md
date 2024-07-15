@@ -78,6 +78,7 @@ You've found my GitHub! [joshuayoder.com](https://joshuayoder.com/) is my websit
 #### Cloud Infrastructure
 ![](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logoColor=white&style=flat-square&logo=amazonaws)
 ![](https://img.shields.io/badge/-Google%20Cloud-4285F4?logoColor=white&style=flat-square&logo=googlecloud)
+![](https://img.shields.io/badge/-Equinix%20Metal-ED2224?logoColor=white&style=flat-square&logo=equinixmetal)
 ![](https://img.shields.io/badge/-Azure-0078D4?logoColor=white&style=flat-square&logo=microsoftazure)
 ![](https://img.shields.io/badge/-DigitalOcean-0080FF?logoColor=white&style=flat-square&logo=digitalocean)
 ![](https://img.shields.io/badge/-Hetzner-D50C2D?logoColor=white&style=flat-square&logo=hetzner)
