@@ -14,10 +14,9 @@ You've found my GitHub! [joshuayoder.com](https://joshuayoder.com/) is my websit
 #### Languages & Frameworks
 
 ![](https://img.shields.io/badge/-Python-3776AB?logoColor=white&style=flat-square&logo=python)
-![](https://img.shields.io/badge/-C-A8B9CC?logoColor=white&style=flat-square&logo=C)
-![](https://img.shields.io/badge/-Zig-F7A41D?logoColor=white&style=flat-square&logo=Zig)
 ![](https://img.shields.io/badge/-Go-00ADD8?logoColor=white&style=flat-square&logo=go)
 ![](https://img.shields.io/badge/-SQL-4169E1?logoColor=white&style=flat-square)
+![](https://img.shields.io/badge/-C-A8B9CC?logoColor=white&style=flat-square&logo=C)
 ![](https://img.shields.io/badge/-OpenTofu%20%2F%20Terraform-7B42BC?logoColor=white&style=flat-square&logo=terraform)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?logoColor=white&style=flat-square&logo=typescript)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logoColor=white&style=flat-square&logo=javascript)
