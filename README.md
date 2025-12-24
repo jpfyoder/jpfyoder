@@ -3,7 +3,7 @@
 - I am a **Full Stack Software Engineer** who specializes in **Distributed Systems Architecture** 🌐, **Data Science** 📊, and **Data Engineering** 📡🗂️.
 - I have a **Bachelors of Science in Computer Science** 🎓 with a minor in finance (2024) from RIT and am currently pursuing a **Masters of Science in Applied Statistics** 🎓, also at RIT.
 - I love finding elegant solutions to common problems where **speed** 🐇, **efficiency** 📈, and **durability** 🪨 are key.
-- Generally, I am a follower of [Extreme Programming (XP)](http://www.extremeprogramming.org) 🚀.
+- Generally, I am a follower of [Extreme Programming (XP)](http://www.extremeprogramming.org) and [Data Oriented Programming](https://www.amazon.com/Data-Oriented-Programming-Unlearning-Yehonathan-Sharvit/dp/1617298573) 🚀.
 - My passions besides programming include reading 📖 (mostly textbooks and non-fiction), music 🎵, mathematics 🧮, statistics 🗳️, finance 💹, traveling 🛫, and exploring new places 🏝️ and ideas 💡.
 
 You can find out more about me on my website, [joshuayoder.com](https://joshuayoder.com/)!
