@@ -14,9 +14,9 @@ You can find out more about me on my website, [joshuayoder.com](https://joshuayo
 #### Languages
 ![](https://img.shields.io/badge/-Python-3776AB?logoColor=white&style=flat-square&logo=python)
 ![](https://img.shields.io/badge/-C-A8B9CC?logoColor=white&style=flat-square&logo=C)
-![](https://img.shields.io/badge/-Go-00ADD8?logoColor=white&style=flat-square&logo=go)
 ![](https://img.shields.io/badge/-SQL-4169E1?logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-R-276DC3?logoColor=white&style=flat-square&logo=R)
+![](https://img.shields.io/badge/-Go-00ADD8?logoColor=white&style=flat-square&logo=go)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?logoColor=white&style=flat-square&logo=typescript)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logoColor=white&style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-HTML5-E34F26?logoColor=white&style=flat-square&logo=html5)
@@ -25,9 +25,9 @@ You can find out more about me on my website, [joshuayoder.com](https://joshuayo
 
 #### Databases
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?logoColor=white&style=flat-square&logo=postgresql)
-![](https://img.shields.io/badge/-QuestDB-800020?logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-MySQL-F29111?logoColor=white&style=flat-square&logo=mysql)
 ![](https://img.shields.io/badge/-SQLite-0F80CC?logoColor=white&style=flat-square&logo=sqlite)
+![](https://img.shields.io/badge/-DuckDB-000000?logoColor=yellow&style=flat-square&logo=duckdb)
 ![](https://img.shields.io/badge/-Redis%20%2F%20Valkey-DC382D?logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-Supabase-3FCF8E?logoColor=white&style=flat-square&logo=supabase)
 ![](https://img.shields.io/badge/-Amazon%20RDS-527FFF?logoColor=white&style=flat-square&logo=amazonrds)
